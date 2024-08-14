@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: TryHackMe Notes
+tags: Notes
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
