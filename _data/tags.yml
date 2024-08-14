@@ -1,11 +1,11 @@
 TryHackMe:
   name: TryHackMe
 
-tag2:
+HackTheBox:
   name: HackTheBox
 
-tag3:
+CrackMe:
   name: CrackMe
 
-tag4:
+Notes:
   name: Notes
